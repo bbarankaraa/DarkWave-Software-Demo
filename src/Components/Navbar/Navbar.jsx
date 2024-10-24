@@ -7,7 +7,7 @@ const Navbar = () => {
         <nav className='bg-gray-100'>
         <div className="flex flex-col md:flex-row items-center font-medium justify-around md:h-[140px] h-[100px]">
             <div className='flex justify-between items-center gap-[40vw]'>
-              <img src={Logo} alt="logo" className='md:cursor-pointer md:h-[200px] h-[100px]'/>
+              <img src={Logo} alt="logo" className='md:cursor-pointer h-[100px]'/>
                 <div className='text-3xl z-50 md:hidden px-5' onClick={() =>setOpen(!open)}>
                 <ion-icon name={`${ open ? 'close' : 'menu' }`}></ion-icon>
                 </div>
