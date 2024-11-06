@@ -1,8 +1,12 @@
-# React + Vite
+🌌 Darkwave Software
+🖥️ About the Project
+Darkwave Software is a test project for the software company. Built using React and Tailwind CSS, this project has a sleek and modern interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+⚛️ Modular Structure with React: Each component is decomposed, making maintenance and development easier.
+🎨 Fast Styling with Tailwind CSS: Tailwind's utility-first approach makes styling fast and efficient.
+📱 Responsive Design: Optimized for mobile, tablet and desktop devices.
+⚡ Performance Optimization: It loads fast and improves user experience.
+🛠️ Technologies Used
+React - for building user interfaces
+Tailwind CSS - For modern and effective styling
